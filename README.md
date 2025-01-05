@@ -34,7 +34,7 @@ ve 'Ürün Listeleme' fonksiyonlarında erişim yetkisi vardır.
 ## Kullanım
 - **Youtube Kullanım Linki**
    ```bash
-
+   https://youtu.be/4yfFelyM0IU
 
 - **Ekran Görüntüleri**
    
