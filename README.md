@@ -65,7 +65,6 @@ ve 'Ürün Listeleme' fonksiyonlarında erişim yetkisi vardır.
 ![Screenshot from 2025-01-05 16-42-22](https://github.com/user-attachments/assets/dc047a79-c40f-4d77-be25-7a2fb67d90cc)
 ### Ürün Silme
 ![Screenshot from 2025-01-05 16-44-50](https://github.com/user-attachments/assets/678c615c-5a69-4146-94fc-cf3ce56e10de)
-
 ![Screenshot from 2025-01-05 16-45-56](https://github.com/user-attachments/assets/5155c9fe-ba9f-4ebf-a50b-46d335baa1b7)
 
 ### Rapor Al
