@@ -82,4 +82,5 @@ ve 'Ürün Listeleme' fonksiyonlarında erişim yetkisi vardır.
 ![Screenshot from 2025-01-05 16-55-24](https://github.com/user-attachments/assets/7124b798-3eca-4251-9dd8-f2f3f83307f7)
 
 ### Çıkış
+![Screenshot from 2025-01-05 16-59-10](https://github.com/user-attachments/assets/e26c1233-56c1-411f-9cd1-d9f63c377899)
 
