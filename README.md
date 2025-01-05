@@ -35,6 +35,9 @@ ve 'Ürün Listeleme' fonksiyonlarında erişim yetkisi vardır.
 - **Youtube Kullanım Linki**
    ```bash
    https://youtu.be/4yfFelyM0IU
+- **Github Linki**
+   ```bash
+   https://github.com/sidikafirat/ZenityileEnvanterYonetimSistemi
 
 - **Ekran Görüntüleri**
    
@@ -144,7 +147,8 @@ ve 'Ürün Listeleme' fonksiyonlarında erişim yetkisi vardır.
 
 ### Çıkış
 - Zenity --question ile kullanıcıdan çıkış onayı alınmaktadır.
-  
+
+
 ![Screenshot from 2025-01-05 16-59-10](https://github.com/user-attachments/assets/e26c1233-56c1-411f-9cd1-d9f63c377899)
 
 ## Dosya Yapısı (Branch Formatında)
